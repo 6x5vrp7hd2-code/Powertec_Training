@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Energy source uncertainty",
+    "prompt": "A board is normally fed from path A, but a coupler and an alternate transfer path exist. Determine what information must be established before treating it as incapable of energisation."
+  },
+  {
+    "id": 2,
+    "title": "UPS abnormal state",
+    "prompt": "Normal input is unavailable, battery remains connected and bypass availability is uncertain. Separate known sources from unresolved conditions."
+  },
+  {
+    "id": 3,
+    "title": "Same fault, different source",
+    "prompt": "Compare a downstream fault when supplied from transformer/mains, UPS inverter and bypass. Identify what study or manufacturer information is needed before predicting protection performance."
+  },
+  {
+    "id": 4,
+    "title": "Commissioning configuration",
+    "prompt": "A temporary load bank and inhibited automatic transfer are present. Reconstruct the current system rather than the design state."
+  },
+  {
+    "id": 5,
+    "title": "Mechanical resilience",
+    "prompt": "One electrical path is unavailable and an ATS-fed cooling load has transferred. Identify the remaining resilience and operational consequence."
+  },
+  {
+    "id": 6,
+    "title": "Contradictory indication",
+    "prompt": "Local device state and monitoring indication disagree. Identify what is known, what is not, and the correct stop/challenge response."
+  }
+]

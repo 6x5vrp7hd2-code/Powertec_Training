@@ -1,0 +1,1 @@
+document.addEventListener('click',e=>{const b=e.target.closest('[data-answer]');if(!b)return;const q=b.closest('.quiz');const ok=b.dataset.answer==='1';q.querySelector('.feedback').textContent=ok?'Correct — '+q.dataset.correct:'Not quite. Re-examine the principle and try again.';});

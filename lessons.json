@@ -1,0 +1,416 @@
+[
+  {
+    "module": "m01",
+    "lesson": 1,
+    "title": "Electrical quantities in operational context",
+    "summary": "Refresh voltage, current, impedance, power, apparent power, power factor, energy and frequency, then connect each directly to equipment ratings, loading, fault behaviour and source compatibility."
+  },
+  {
+    "module": "m01",
+    "lesson": 2,
+    "title": "AC, DC and three-phase systems",
+    "summary": "Re-establish AC/DC and three-phase relationships before applying them to rectifiers, DC links, batteries, inverters, phase sequence and source transfer."
+  },
+  {
+    "module": "m01",
+    "lesson": 3,
+    "title": "The data-centre power chain",
+    "summary": "Trace a generic facility from incoming supply through HV distribution, transformers, LV switchboards, resilient paths, critical power conversion and downstream loads."
+  },
+  {
+    "module": "m01",
+    "lesson": 4,
+    "title": "Reading professional SLDs",
+    "summary": "Interpret device symbols, normal states, tags, ratings, drawing continuations, bus sections, incomers, couplers and system boundaries."
+  },
+  {
+    "module": "m01",
+    "lesson": 5,
+    "title": "Architecture reconstruction",
+    "summary": "Rebuild a complex fictional SLD in layers and explain what each new layer changes about energisation, redundancy and operational control."
+  },
+  {
+    "module": "m02",
+    "lesson": 1,
+    "title": "Hazard and energy recognition",
+    "summary": "Separate electrical hazard, source identification, stored energy and equipment state from assumptions based on normal running arrangements."
+  },
+  {
+    "module": "m02",
+    "lesson": 2,
+    "title": "Roles, rules and controlled documents",
+    "summary": "Understand the purpose of authorisation levels, safety documents, operational communication, handover and configuration control without substituting generic training for site rules."
+  },
+  {
+    "module": "m02",
+    "lesson": 3,
+    "title": "Isolation as a system condition",
+    "summary": "Treat isolation as an established electrical condition requiring credible sources, automatic functions and alternative paths to be accounted for."
+  },
+  {
+    "module": "m02",
+    "lesson": 4,
+    "title": "Proving and verification principles",
+    "summary": "Understand why indication, monitoring and verbal confirmation are not substitutes for the approved means of establishing electrical condition."
+  },
+  {
+    "module": "m02",
+    "lesson": 5,
+    "title": "Stop, challenge and escalate",
+    "summary": "Practise recognising insufficient, conflicting or unexpected information as a reason to stop and resolve uncertainty."
+  },
+  {
+    "module": "m03",
+    "lesson": 1,
+    "title": "HV distribution architecture",
+    "summary": "Incoming supplies, switchboards, bus sections, transformer feeders and resilient arrangements."
+  },
+  {
+    "module": "m03",
+    "lesson": 2,
+    "title": "Switchgear families and functions",
+    "summary": "Differentiate switching, interruption, isolation, earthing and protection functions; recognise AIS, GIS and RMU concepts."
+  },
+  {
+    "module": "m03",
+    "lesson": 3,
+    "title": "Transformer interfaces",
+    "summary": "Understand transformer purpose, vector/neutral implications at a conceptual level, protection interfaces and the HV/LV operational boundary."
+  },
+  {
+    "module": "m03",
+    "lesson": 4,
+    "title": "Device state and interlocking",
+    "summary": "Interpret connected, isolated, withdrawn/test states where applicable and understand mechanical/electrical/logical interlock intent."
+  },
+  {
+    "module": "m03",
+    "lesson": 5,
+    "title": "HV/LV backfeed thinking",
+    "summary": "Challenge the assumption that removal of the normal HV source alone establishes the complete safe condition of connected equipment."
+  },
+  {
+    "module": "m04",
+    "lesson": 1,
+    "title": "Conductors and return paths",
+    "summary": "Revisit phase, neutral, protective conductors and exposed conductive parts through the question: where can normal and fault current return?"
+  },
+  {
+    "module": "m04",
+    "lesson": 2,
+    "title": "Fault families",
+    "summary": "Distinguish overload, short-circuit and insulation/earth faults and connect each to expected protection behaviour."
+  },
+  {
+    "module": "m04",
+    "lesson": 3,
+    "title": "Protection devices",
+    "summary": "Fuse, circuit breaker, residual protection, insulation monitoring and electronic trip functions in context."
+  },
+  {
+    "module": "m04",
+    "lesson": 4,
+    "title": "Earthing arrangements",
+    "summary": "Compare TT, TN-S, TN-C and IT conceptually, focusing on fault-current paths, neutral-earth relationships and operational implications."
+  },
+  {
+    "module": "m04",
+    "lesson": 5,
+    "title": "Sectionalised LV boards",
+    "summary": "Interpret incomers, bus sections, couplers, outgoing ways, A/B distribution and changed configurations."
+  },
+  {
+    "module": "m04",
+    "lesson": 6,
+    "title": "Multiple infeeds and backfeed",
+    "summary": "Trace every credible source rather than relying on the normal supply path."
+  },
+  {
+    "module": "m04",
+    "lesson": 7,
+    "title": "Breaking and withstand capability",
+    "summary": "Introduce prospective fault current and Icu/Ics/Icw/Icm as equipment-selection and operational-awareness concepts."
+  },
+  {
+    "module": "m04",
+    "lesson": 8,
+    "title": "Trip units and selectivity",
+    "summary": "Develop LSIG, time/current coordination and selective fault clearance conceptually; settings remain study- and equipment-specific."
+  },
+  {
+    "module": "m05",
+    "lesson": 1,
+    "title": "Why critical loads use UPS",
+    "summary": "Continuity, power conditioning and ride-through in mission-critical architecture."
+  },
+  {
+    "module": "m05",
+    "lesson": 2,
+    "title": "Double-conversion path",
+    "summary": "Follow AC input through rectification, DC link and inversion to the critical load."
+  },
+  {
+    "module": "m05",
+    "lesson": 3,
+    "title": "DC link and capacitors",
+    "summary": "Understand stored electrical energy, discharge behaviour and why de-energised AC does not automatically mean absence of hazardous energy."
+  },
+  {
+    "module": "m05",
+    "lesson": 4,
+    "title": "Battery as an independent source",
+    "summary": "Treat battery strings as sources with their own isolation, stored energy and DC-specific hazards."
+  },
+  {
+    "module": "m05",
+    "lesson": 5,
+    "title": "Static bypass",
+    "summary": "Understand the alternative electronic path, source compatibility and its effect on the list of credible energisation paths."
+  },
+  {
+    "module": "m05",
+    "lesson": 6,
+    "title": "Maintenance bypass",
+    "summary": "Understand why a maintenance path changes the operational architecture and can place the load outside the normal power-conversion route."
+  },
+  {
+    "module": "m05",
+    "lesson": 7,
+    "title": "UPS operating states",
+    "summary": "Recognise normal conversion, battery operation, bypass states, reduced redundancy and unavailable equipment."
+  },
+  {
+    "module": "m05",
+    "lesson": 8,
+    "title": "Parallel UPS and load sharing",
+    "summary": "Understand redundancy, parallel modules and load distribution without assuming vendor-specific control behaviour."
+  },
+  {
+    "module": "m05",
+    "lesson": 9,
+    "title": "Capacity and residual load",
+    "summary": "Use simplified capacity exercises to judge whether removing equipment consumes redundancy or leaves adequate headroom."
+  },
+  {
+    "module": "m05",
+    "lesson": 10,
+    "title": "UPS isolation reasoning",
+    "summary": "Use fictional diagrams to identify sources, stored energy, bypass paths and missing information; never substitute the exercise for an approved site procedure."
+  },
+  {
+    "module": "m06",
+    "lesson": 1,
+    "title": "Two sources, one load",
+    "summary": "Establish preferred and alternative source concepts."
+  },
+  {
+    "module": "m06",
+    "lesson": 2,
+    "title": "Synchronisation fundamentals",
+    "summary": "Voltage magnitude, frequency, phase sequence and phase relationship as prerequisites for controlled paralleling."
+  },
+  {
+    "module": "m06",
+    "lesson": 3,
+    "title": "Open and controlled-overlap transfer",
+    "summary": "Compare break-before-make with design-specific controlled parallel transfer."
+  },
+  {
+    "module": "m06",
+    "lesson": 4,
+    "title": "ATS operation",
+    "summary": "Understand monitored source health, transfer logic, automatic/manual states and failure modes conceptually."
+  },
+  {
+    "module": "m06",
+    "lesson": 5,
+    "title": "STS operation",
+    "summary": "Understand rapid static transfer between compatible sources and its role in critical distribution."
+  },
+  {
+    "module": "m06",
+    "lesson": 6,
+    "title": "Bus coupling",
+    "summary": "Explore how couplers alter energisation paths, fault levels, redundancy and operational boundaries."
+  },
+  {
+    "module": "m06",
+    "lesson": 7,
+    "title": "Abnormal transfer states",
+    "summary": "Incomplete transfer, failed transfer, unexpected source, inhibited automation and contradictory indication."
+  },
+  {
+    "module": "m07",
+    "lesson": 1,
+    "title": "Mechanical criticality",
+    "summary": "Why cooling, pumps, air movement and controls are part of electrical operational risk."
+  },
+  {
+    "module": "m07",
+    "lesson": 2,
+    "title": "Motor and drive supplies",
+    "summary": "Conceptual motor, VFD and control-power relationships."
+  },
+  {
+    "module": "m07",
+    "lesson": 3,
+    "title": "Redundant mechanical trains",
+    "summary": "How A/B or duty/standby arrangements interact with electrical resilience."
+  },
+  {
+    "module": "m07",
+    "lesson": 4,
+    "title": "ATS-fed mechanical loads",
+    "summary": "Trace normal and alternate supplies to critical mechanical equipment."
+  },
+  {
+    "module": "m07",
+    "lesson": 5,
+    "title": "Control and auxiliary power",
+    "summary": "Recognise that loss of control power can change equipment behaviour even where main power remains."
+  },
+  {
+    "module": "m07",
+    "lesson": 6,
+    "title": "Operational consequence mapping",
+    "summary": "State what facility capability is lost or degraded when a feeder or board changes state."
+  },
+  {
+    "module": "m08",
+    "lesson": 1,
+    "title": "Construction to operational state",
+    "summary": "Differentiate design intent, as-built state, commissioning state and final operational state."
+  },
+  {
+    "module": "m08",
+    "lesson": 2,
+    "title": "Progressive energisation",
+    "summary": "Understand staged introduction of energy and controlled handover at a conceptual level."
+  },
+  {
+    "module": "m08",
+    "lesson": 3,
+    "title": "Temporary configurations",
+    "summary": "Account for temporary supplies, cables, test equipment, inhibited automation and unavailable plant."
+  },
+  {
+    "module": "m08",
+    "lesson": 4,
+    "title": "Load-bank principles",
+    "summary": "Understand why artificial load is used, what system behaviour is observed and why temporary connections change the safety picture."
+  },
+  {
+    "module": "m08",
+    "lesson": 5,
+    "title": "Transfer and resilience testing",
+    "summary": "Understand the purpose of loaded transfer and resilience proving without embedding a generic switching sequence."
+  },
+  {
+    "module": "m08",
+    "lesson": 6,
+    "title": "Integrated Systems Testing",
+    "summary": "Relate electrical, UPS, transfer and mechanical responses during integrated proving."
+  },
+  {
+    "module": "m08",
+    "lesson": 7,
+    "title": "Restoration and configuration control",
+    "summary": "Verify that temporary arrangements are accounted for and the intended system state is positively re-established."
+  },
+  {
+    "module": "m09",
+    "lesson": 1,
+    "title": "Prospective fault current",
+    "summary": "Understand how source impedance and configuration influence fault magnitude."
+  },
+  {
+    "module": "m09",
+    "lesson": 2,
+    "title": "Selectivity and discrimination",
+    "summary": "Understand why the nearest appropriate protective device should clear a fault while preserving healthy distribution where the design permits."
+  },
+  {
+    "module": "m09",
+    "lesson": 3,
+    "title": "Zone selective interlocking",
+    "summary": "Learn the coordination concept without assuming a universal vendor implementation."
+  },
+  {
+    "module": "m09",
+    "lesson": 4,
+    "title": "Same fault, different source",
+    "summary": "Compare the implications of transformer/mains, UPS inverter, bypass and alternate-source feeding; use approved studies/manufacturer data for actual performance."
+  },
+  {
+    "module": "m09",
+    "lesson": 5,
+    "title": "Harmonics and THD",
+    "summary": "Understand non-linear loads, current distortion and resulting voltage distortion as operational-awareness concepts."
+  },
+  {
+    "module": "m09",
+    "lesson": 6,
+    "title": "Neutral and thermal effects",
+    "summary": "Explore phase imbalance, triplen harmonics and heating as possible symptoms requiring investigation."
+  },
+  {
+    "module": "m09",
+    "lesson": 7,
+    "title": "Voltage and frequency disturbances",
+    "summary": "Recognise sags, interruptions, transients and source-quality issues."
+  },
+  {
+    "module": "m09",
+    "lesson": 8,
+    "title": "Abnormal system states",
+    "summary": "Unexpected trips, failed transfer, reduced redundancy, contradictory indication, interlock conflict, control-power failure and temporary-configuration conflict."
+  },
+  {
+    "module": "m09",
+    "lesson": 9,
+    "title": "Restoration reasoning",
+    "summary": "Reconstruct actual state, identify what changed and establish what information is needed before a controlled return to intended configuration."
+  },
+  {
+    "module": "m10",
+    "lesson": 1,
+    "title": "Whole-system reconstruction",
+    "summary": "Rebuild the current configuration from a fictional SLD, equipment states and operational information."
+  },
+  {
+    "module": "m10",
+    "lesson": 2,
+    "title": "Energy-source challenge",
+    "summary": "Identify normal, alternative, stored and automatic sources plus unresolved information."
+  },
+  {
+    "module": "m10",
+    "lesson": 3,
+    "title": "Operational-boundary challenge",
+    "summary": "Explain the conceptual safety boundary and challenge assumptions."
+  },
+  {
+    "module": "m10",
+    "lesson": 4,
+    "title": "Resilience and consequence",
+    "summary": "Identify lost redundancy and downstream consequences."
+  },
+  {
+    "module": "m10",
+    "lesson": 5,
+    "title": "Abnormal-event analysis",
+    "summary": "Separate known facts from assumptions and identify the next information needed."
+  },
+  {
+    "module": "m10",
+    "lesson": 6,
+    "title": "Integrated mock assessment",
+    "summary": "Multi-part assessment across knowledge, diagram interpretation, scenario judgement and evidence review."
+  },
+  {
+    "module": "m10",
+    "lesson": 7,
+    "title": "Assessment readiness",
+    "summary": "Course completion is not authorisation; readiness requires defined knowledge, scenario, evidence, mentor and AE gates."
+  }
+]

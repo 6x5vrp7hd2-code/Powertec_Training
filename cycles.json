@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "System Orientation",
+    "purpose": "Build the first mental map: electrical fundamentals, HV source, transformer, LV distribution, UPS purpose, transfer systems and critical loads."
+  },
+  {
+    "id": 2,
+    "title": "Energy Paths",
+    "purpose": "Ask what can energise each item. Add alternate HV/LV paths, batteries, bypass, couplers and automatic transfer."
+  },
+  {
+    "id": 3,
+    "title": "Operating States",
+    "purpose": "Recognise that risk and resilience depend on system state: normal, alternate, bypass, battery, coupled, isolated, unavailable or reduced redundancy."
+  },
+  {
+    "id": 4,
+    "title": "Protection & Source Behaviour",
+    "purpose": "Connect faults, impedance, protection, selectivity and changing source characteristics."
+  },
+  {
+    "id": 5,
+    "title": "Safety Application",
+    "purpose": "Superimpose operational rules, source identification, stored energy, isolation concepts, verification and stop/challenge behaviour over the whole architecture."
+  },
+  {
+    "id": 6,
+    "title": "Commissioning & Configuration",
+    "purpose": "Introduce temporary supplies, load banks, inhibited automation, equipment under test and configuration control."
+  },
+  {
+    "id": 7,
+    "title": "Abnormal Operation",
+    "purpose": "Use unexpected trips, failed transfers, conflicting indications, control failures and loss of redundancy to develop judgement."
+  },
+  {
+    "id": 8,
+    "title": "Integrated Competence",
+    "purpose": "Remove artificial module boundaries and assess the complete electrical system as an interacting whole."
+  }
+]

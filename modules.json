@@ -1,0 +1,62 @@
+[
+  {
+    "id": "m01",
+    "title": "Electrical Architecture & Operational Boundaries",
+    "aim": "Build a reliable mental model of how electrical energy moves through a mission-critical facility and how operational boundaries change with configuration.",
+    "lesson_count": 5
+  },
+  {
+    "id": "m02",
+    "title": "Electrical Safety, Roles & Operational Control",
+    "aim": "Apply established electrical-safety discipline to systems containing multiple sources, stored energy, automation, bypass arrangements and changing commissioning states.",
+    "lesson_count": 5
+  },
+  {
+    "id": "m03",
+    "title": "HV Distribution, Switchgear, Transformers, Switching & Earthing",
+    "aim": "Translate familiar HV operational discipline into the architecture and interfaces of a data-centre electrical system.",
+    "lesson_count": 5
+  },
+  {
+    "id": "m04",
+    "title": "LV Distribution, Earthing, Protection & Multiple Infeeds",
+    "aim": "Develop the LV system understanding that is often the largest transition for an HV-focused AP/SAP.",
+    "lesson_count": 8
+  },
+  {
+    "id": "m05",
+    "title": "UPS, Batteries, DC Systems & Bypass",
+    "aim": "Build UPS understanding from first principles to multi-source operational judgement.",
+    "lesson_count": 10
+  },
+  {
+    "id": "m06",
+    "title": "ATS / STS, Source Transfer, Coupling & Synchronisation",
+    "aim": "Understand why alternative sources cannot be treated as interchangeable without considering electrical compatibility and transfer philosophy.",
+    "lesson_count": 7
+  },
+  {
+    "id": "m07",
+    "title": "Critical Mechanical Electrical Supplies",
+    "aim": "Understand the electrical dependencies of cooling and environmental systems sufficiently to judge switching consequences and resilience.",
+    "lesson_count": 6
+  },
+  {
+    "id": "m08",
+    "title": "Commissioning, Temporary Configurations, Load Banks & IST",
+    "aim": "Develop disciplined configuration awareness when the installed system is being progressively energised, tested or temporarily modified.",
+    "lesson_count": 7
+  },
+  {
+    "id": "m09",
+    "title": "Protection, Power Quality, Abnormal Conditions & Restoration",
+    "aim": "Connect protection and power-quality fundamentals to real operational judgement when system state differs from expectation.",
+    "lesson_count": 9
+  },
+  {
+    "id": "m10",
+    "title": "Integrated Operational Competence & Mock Authorisation",
+    "aim": "Demonstrate whole-system reasoning across architecture, energy sources, safety, protection, resilience, commissioning and abnormal conditions.",
+    "lesson_count": 7
+  }
+]

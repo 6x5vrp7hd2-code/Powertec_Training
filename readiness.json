@@ -1,0 +1,13 @@
+{
+  "mandatory_learning": "100%",
+  "knowledge_threshold": "80%",
+  "scenario_threshold": "75%",
+  "critical_scenario_threshold": "85%",
+  "validated_evidence_min": 20,
+  "demonstrated_min": 8,
+  "mentor_validation": true,
+  "AE_desktop_review": true,
+  "mock_threshold": "80%",
+  "unresolved_safety_critical_deficiencies": 0,
+  "result": "Candidate may be recommended for formal authorisation assessment; programme does not authorise."
+}
